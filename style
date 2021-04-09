@@ -1,0 +1,84 @@
+/* Multi Page Elements*/
+div.jumbotron {
+  font-family: arial black;
+  color: #66ff99;
+  background: #ff4d94;
+  border: solid 5px #66ff99;
+}
+div.bottomJumbotron {
+  font-family: arial black;
+  color: #66ff99;
+  background: #ff4d94;
+  border: solid 5px #cc33ff;
+  padding: 20px;
+  text-align: center;
+  margin: 30px;
+}
+button.btn {
+  background: #99ccff;
+  border: dotted 3px #cc33ff;
+}
+
+/* About Us Page Elements*/
+div.portrait{
+height:300px;
+width:250px;
+margin:10px;
+border:2px;
+  
+}
+div.bodyTitle{
+font-family: arial black;
+color: #ff4d94;  
+font-family: arial black;
+color: #ff4d94;
+}
+div.bodyText{
+border:solid 5px #66ff99;
+padding: 10px;  
+}
+
+
+/* Gallery Page Elements*/
+div.titleText h1 {
+  font-family: arial black;
+  color: #ff4d94;
+  font-size: 50px;
+  text-align: center;
+}
+div.titleText p {
+  text-align: center;
+  font-size: 20px
+}
+
+/* Home Page Elements*/
+div.HomePageTitle {
+  color: #ff4d94;
+  font-family: arial black;
+  margin-top: 10px;
+  font-size: 70px;
+}
+div.homeTextBody {
+  padding: 16px;
+  margin: 5px;
+  font-family: arial;
+  border: solid 2px #66ff99;
+}
+
+div.imageContainer {
+  height: 400px;
+  width: 566px;
+  border: solid 2px;
+  display: flex;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-rigth: 10px;
+  margin-left: 10px;
+}
+button.twitterLinkButton{
+ height:45px;
+ width:175px;
+ background: #99ccff;
+ border: solid 3px #66ff99; 
+margin: 3px;
+}
