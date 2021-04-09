@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Gallery Page</title>
+  
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+
+<!-- Jumbotron -->
+<div class="jumbotron text-center">
+<h1>Art that I like</h1>
+  </div>
+  
+<!-- NavBar -->
+<nav class="navbar navbar-expand-lg static-top" style="background-color: #66ff99;">
+
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+
+          <span class="navbar-toggler-icon"></span>
+        </button>
+    <div class="collapse navbar-collapse" id="navbarResponsive">
+      <ul class="navbar-nav ml-auto">
+              <span class="sr-only">(current)</span>
+              </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Gallery</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">About Us</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<div class="titleText">
+<h1>Gallery</h1>
+  
+<p> Examples of some of Kamen’s work, demonstrating their use of vibrant color, bold lines, expressive characters, and sharp use of contrast.  
+    </p>
+</div>
+<!-- Gallery -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="shortcut icon" href="favicon.ico"/>
+
+		<div class="row flex">
+
+			<div class="col-lg-4 col-sm-6">
+				<div class="thumbnail">
+					<img src="https://pbs.twimg.com/media/EpL7a5hU8AE6LNq?format=jpg&name=medium">
+				</div>
+			</div>
+			<div class="col-lg-4 col-sm-6">
+				<div class="thumbnail">
+					<img src="https://pbs.twimg.com/media/EeZ--tzUYAAV-aK?format=jpg&name=medium">
+				</div>
+			</div>
+			<div class="col-lg-4 col-sm-6">
+				<div class="thumbnail">
+					<img src="https://pbs.twimg.com/media/Ee9_2u6UYAAOsk5?format=jpg&name=medium">
+				</div>
+			</div>
+			<div class="col-lg-4 col-sm-6">
+				<div class="thumbnail">
+					<img src="https://pbs.twimg.com/media/EkSWIzeU4AIi53E?format=jpg&name=large">
+				</div>
+			</div>
+			<div class="col-lg-4 col-sm-6">
+				<div class="thumbnail">
+					<img src="https://pbs.twimg.com/media/Ekh_teOUUAgK2U6?format=jpg&name=large">
+				</div>
+			</div>
+			<div class="col-lg-4 col-sm-6">
+				<div class="thumbnail">
+					<img src="https://pbs.twimg.com/media/EZVwoSmUwAI4Psm?format=jpg&name=medium">
+				</div>
+			</div>
+			<div class="col-lg-4 col-sm-6">
+				<div class="thumbnail">
+					<img src="https://pbs.twimg.com/media/EXj82m0VcAA-o8F?format=jpg&name=medium">
+				</div>
+			</div>
+			<div class="col-lg-4 col-sm-6">
+				<div class="thumbnail">
+					<img src="https://pbs.twimg.com/media/ER4DERiU8AMmd06?format=jpg&name=900x900">
+				</div>
+			</div>
+			<div class="col-lg-4 col-sm-6">
+				<div class="thumbnail">
+					<img src="https://pbs.twimg.com/media/D2KfLCnUgAAdY02?format=jpg&name=900x900">
+				</div>
+			</div>
+		</div>
+	</div>
+
+<script
+  src="https://code.jquery.com/jquery-3.2.1.js"
+  integrity="sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE="
+  crossorigin="anonymous"></script>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+ <!-- Bottom Jumbotron-->                   
+        <div class="bottomJumbotron">
+          <h2>Hey Click On This Button</h2>
+<button class="btn btn-outline-light" type="button"><a href=https://www.zombo.com>CLICK ON THIS BUTTON</button>
+        </div>
+      
